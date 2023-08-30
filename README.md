@@ -6,7 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/xmofyy" target="blank"><img src="https://img.shields.io/twitter/follow/xmofyy?logo=twitter&style=for-the-badge" alt="xmofyy" /></a> </p>
 
+- 🌱 I’m currently learning **Python and C++**
+
 - 📫 How to reach me **onabanjogeorge@gmail.com**
+
+- ⚡ Fun fact **I just want to make "games".**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,3 +19,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mofy-y&show_icons=true&locale=en&layout=compact" alt="mofy-y" /></p>
