@@ -7,6 +7,8 @@
 <p align="left"> <a href="https://twitter.com/xmofyy" target="blank"><img src="https://img.shields.io/twitter/follow/xmofyy?logo=twitter&style=for-the-badge" alt="xmofyy" /></a> </p>
 
 - 🌱 I’m currently learning **Python and C++**
+- 
+<img align= "right" src= "https://w.wallhaven.cc/full/j5/wallhaven-j5mj3w.png"/>
 
 - 📫 How to reach me **onabanjogeorge@gmail.com**
 
